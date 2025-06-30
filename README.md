@@ -419,11 +419,7 @@ pyinstaller --onefile --windowed ImageDenoise_3.py
 - 更新的文档说明
 - 性能影响评估
 
-## 15. 许可证
-
-本项目采用MIT许可证，详见LICENSE文件。
-
-## 16. 联系方式
+## 15. 联系方式
 
 - 邮箱：[072160226@nuaa.edu.cn]
 
